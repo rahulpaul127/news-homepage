@@ -25,7 +25,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://github.com/rahulpaul127/news-homepage)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/news-homepage-HsZQjUFWay)
 - Live Site URL: [GitHub Pages](https://rahulpaul127.github.io/news-homepage/)
 
 ---
