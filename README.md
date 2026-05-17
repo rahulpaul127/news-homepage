@@ -57,5 +57,5 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ## Author
 
-- Frontend Mentor - [@rahulpaul12](https://www.frontendmentor.io/profile/rahulpaul12)
+- Frontend Mentor - [@rahulpaul127](https://www.frontendmentor.io/profile/rahulpaul127)
 - Twitter - [@rahulpaul127](https://x.com/rahulpaul127)
